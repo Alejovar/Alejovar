@@ -128,8 +128,9 @@ const Alejovar = {
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:0a0e1a&height=100&section=footer)
 
 </div>
+
 <div align="center">
   <a href="https://instagram.com/ImAlejovar">
-    <img src="https://reporoster.com/sprt/ImAlejovar?theme=dark" alt="Instagram Card" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-ImAlejovar-white?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&labelColor=E4405F&width=1000" width="100%" />
   </a>
 </div>
