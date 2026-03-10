@@ -27,7 +27,7 @@ const Alejovar = {
     devops   : ["Docker", "Jenkins", "GitLab CI/CD"],
     network  : ["Packet Tracer", "TCP/IP", "VLANs"],
   },
-  content : "🔴 Live coding — Twitch & Instagram @ImAlejovar",
+  content : "Twitch & Instagram @ImAlejovar",
   motto   : "Ship it. Break it. Fix it. Repeat.",
 };
 ```
