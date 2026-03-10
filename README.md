@@ -14,7 +14,7 @@
 
 ---
 
-## 👾 `whoami`
+## 👾 `Im`
 
 ```typescript
 const Alejovar = {
@@ -129,8 +129,3 @@ const Alejovar = {
 
 </div>
 
-<div align="center">
-  <a href="https://instagram.com/ImAlejovar">
-    <img src="https://img.shields.io/badge/INSTAGRAM-ImAlejovar-white?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F&labelColor=E4405F&width=1000" width="100%" />
-  </a>
-</div>
