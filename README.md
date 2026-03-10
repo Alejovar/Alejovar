@@ -130,6 +130,6 @@ const Alejovar = {
 </div>
 <div align="center">
   <a href="https://instagram.com/ImAlejovar">
-    <img src="https://img.shields.io/badge/Instagram-@ImAlejovar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://reporoster.com/sprt/ImAlejovar?theme=dark" alt="Instagram Card" />
   </a>
 </div>
