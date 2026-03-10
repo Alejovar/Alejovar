@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Alejovar&fontSize=80&fontColor=58a6ff&fontAlignY=55&desc=Software%20Engineer%20%7C%20Fullstack%20%7C%20DevOps&descSize=17&descAlignY=80&descColor=8b949e&animation=fadeIn&stroke=1f6feb&strokeWidth=1)
+![banner](https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Alejovar&fontSize=80&fontColor=58a6ff&fontAlignY=55&desc=Software%20Engineer%20Student%20%7C%20Fullstack%20%7C%20DevOps&descSize=17&descAlignY=80&descColor=8b949e&animation=fadeIn&stroke=1f6feb&strokeWidth=1)
 
 ---
 
