@@ -93,9 +93,7 @@ const Alejovar = {
 
 ---
 
-## 🐍 Contribution Snake
 
-> Actívala agregando [este GitHub Action](https://github.com/Platane/snk) a tu repo de perfil `Alejovar/Alejovar`.
 
 <div align="center">
 
