@@ -73,7 +73,7 @@ const Alejovar = {
 **OS**
 
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://skillicons.dev)
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Fedora_icon_%282021%29.svg" width="48" height="48" alt="Fedora" />
+<img src="https://es.wikipedia.org/wiki/Archivo:Fedora_icon_%282021%29.svg" width="48" height="48" alt="Fedora" />
 [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 [![Arch Linux](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
 
