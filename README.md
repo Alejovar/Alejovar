@@ -59,7 +59,7 @@ const Alejovar = {
 
 **Databases**
 
-
+<img src="https://basededatosparadummies.wordpress.com/wp-content/uploads/2019/02/forbidden.png" width="48" height="48" alt="Oracle" />
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
 
@@ -73,7 +73,7 @@ const Alejovar = {
 **OS**
 
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://skillicons.dev)
-<img src="https://es.wikipedia.org/wiki/Archivo:Fedora_icon_%282021%29.svg" width="48" height="48" alt="Fedora" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/3840px-Fedora_logo.svg.png" width="48" height="48" alt="Fedora" />
 [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 [![Arch Linux](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
 
