@@ -38,51 +38,50 @@ const Alejovar = {
 
 <div align="center">
 
-## 🛠️ Tech Stack
+**Frontend**
 
-## 🛠️ Tech Stack
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)](https://skillicons.dev)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://skillicons.dev)
+[![Vite](https://skillicons.dev/icons?i=vite&theme=dark)](https://skillicons.dev)
+[![Electron](https://skillicons.dev/icons?i=electron&theme=dark)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
 
-### 💻 Frontend & Web
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
-![Vite](https://skillicons.dev/icons?i=vite)
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
+**Backend**
 
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
+[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+[![NestJS](https://skillicons.dev/icons?i=nestjs&theme=dark)](https://skillicons.dev)
+[![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://skillicons.dev)
 
-### ⚙️ Backend & API
-![Java](https://skillicons.dev/icons?i=java)
-![PHP](https://skillicons.dev/icons?i=php)
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![NestJS](https://skillicons.dev/icons?i=nestjs)
-![Prisma](https://skillicons.dev/icons?i=prisma)
+**Databases**
 
-### 🗄️ Databases & Data
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MySQL](https://skillicons.dev/icons?i=mysql)
+[![Oracle](https://skillicons.dev/icons?i=oracle&theme=dark)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+**Cloud & Infrastructure**
 
-### ☁️ Cloud & Infrastructure
+[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
+[![GCP](https://skillicons.dev/icons?i=gcp&theme=dark)](https://skillicons.dev)
+[![DigitalOcean](https://skillicons.dev/icons?i=digitalocean&theme=dark)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+[![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark)](https://skillicons.dev)
+[![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=dark)](https://skillicons.dev)
+[![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://skillicons.dev)
 
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
+**OS**
 
-![Docker](https://skillicons.dev/icons?i=docker)
-![Nginx](https://skillicons.dev/icons?i=nginx)
+[![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://skillicons.dev)
+[![Fedora](https://skillicons.dev/icons?i=fedora&theme=dark)](https://skillicons.dev)
+[![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 
-### 🐧 Operating Systems
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Arch Linux](https://skillicons.dev/icons?i=arch)
-![Fedora](https://skillicons.dev/icons?i=fedora)
+
+
+
 **DevOps & Tools**
 
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
