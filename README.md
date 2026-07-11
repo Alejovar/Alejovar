@@ -40,41 +40,49 @@ const Alejovar = {
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### 💻 Frontend & Web
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
-![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
-![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
-![Electron](https://skillicons.dev/icons?i=electron&theme=dark)
-![HTML](https://skillicons.dev/icons?i=html&theme=dark)
-![CSS](https://skillicons.dev/icons?i=css&theme=dark)
-![JS](https://skillicons.dev/icons?i=js&theme=dark)
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![Vite](https://skillicons.dev/icons?i=vite)
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white"/>
 
 ### ⚙️ Backend & API
-![Java](https://skillicons.dev/icons?i=java&theme=dark)
-![PHP](https://skillicons.dev/icons?i=php&theme=dark)
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![NestJS](https://skillicons.dev/icons?i=nestjs&theme=dark)
-![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)
+![Java](https://skillicons.dev/icons?i=java)
+![PHP](https://skillicons.dev/icons?i=php)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+![Prisma](https://skillicons.dev/icons?i=prisma)
 
 ### 🗄️ Databases & Data
-![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
-![Oracle](https://skillicons.dev/icons?i=oracle&theme=dark)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ### ☁️ Cloud & Infrastructure
-![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
-![Oracle Cloud](https://skillicons.dev/icons?i=oracle&theme=dark)
-![GCP](https://skillicons.dev/icons?i=gcp&theme=dark)
-![DigitalOcean](https://skillicons.dev/icons?i=digitalocean&theme=dark)
-![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark)
 
-### 🐧 OS & Linux Distros
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)
-![Arch](https://skillicons.dev/icons?i=arch&theme=dark)
-![Fedora](https://skillicons.dev/icons?i=fedora&theme=dark)
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"/>
 
+![Docker](https://skillicons.dev/icons?i=docker)
+![Nginx](https://skillicons.dev/icons?i=nginx)
+
+### 🐧 Operating Systems
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Arch Linux](https://skillicons.dev/icons?i=arch)
+![Fedora](https://skillicons.dev/icons?i=fedora)
 **DevOps & Tools**
 
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
