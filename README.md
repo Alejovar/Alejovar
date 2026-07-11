@@ -38,23 +38,42 @@ const Alejovar = {
 
 <div align="center">
 
-**Frontend**
+## 🛠️ Tech Stack
 
-[![HTML](https://skillicons.dev/icons?i=html&theme=dark)](https://skillicons.dev)
-[![CSS](https://skillicons.dev/icons?i=css&theme=dark)](https://skillicons.dev)
-[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://skillicons.dev)
+### 💻 Frontend & Web
+![React](https://skillicons.dev/icons?i=react&theme=dark)
+![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
+![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
+![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
+![Electron](https://skillicons.dev/icons?i=electron&theme=dark)
+![HTML](https://skillicons.dev/icons?i=html&theme=dark)
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+![JS](https://skillicons.dev/icons?i=js&theme=dark)
 
-**Backend**
+### ⚙️ Backend & API
+![Java](https://skillicons.dev/icons?i=java&theme=dark)
+![PHP](https://skillicons.dev/icons?i=php&theme=dark)
+![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![NestJS](https://skillicons.dev/icons?i=nestjs&theme=dark)
+![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)
 
-[![Java](https://skillicons.dev/icons?i=java&theme=dark)](https://skillicons.dev)
-[![PHP](https://skillicons.dev/icons?i=php&theme=dark)](https://skillicons.dev)
-[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
+### 🗄️ Databases & Data
+![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+![Oracle](https://skillicons.dev/icons?i=oracle&theme=dark)
 
-**Databases**
+### ☁️ Cloud & Infrastructure
+![AWS](https://skillicons.dev/icons?i=aws&theme=dark)
+![Oracle Cloud](https://skillicons.dev/icons?i=oracle&theme=dark)
+![GCP](https://skillicons.dev/icons?i=gcp&theme=dark)
+![DigitalOcean](https://skillicons.dev/icons?i=digitalocean&theme=dark)
+![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
+![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark)
 
-[![Oracle](https://skillicons.dev/icons?i=oracle&theme=dark)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
+### 🐧 OS & Linux Distros
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)
+![Arch](https://skillicons.dev/icons?i=arch&theme=dark)
+![Fedora](https://skillicons.dev/icons?i=fedora&theme=dark)
 
 **DevOps & Tools**
 
