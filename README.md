@@ -58,22 +58,22 @@ const Alejovar = {
 [![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://skillicons.dev)
 
 **Databases**
-[![Oracle](https://skillicons.dev/icons?i=oracle&theme=dark)](https://skillicons.dev)
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
 
-**Cloud & Infrastructure**
+**Cloud**
 
 [![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
 [![GCP](https://skillicons.dev/icons?i=gcp&theme=dark)](https://skillicons.dev)
-[![DigitalOcean](https://skillicons.dev/icons?i=digitalocean&theme=dark)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/digitalocean-icon.svg" width="48" height="48" alt="DigitalOcean" />
 [![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark)](https://skillicons.dev)
 
 **OS**
 
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://skillicons.dev)
-[![Fedora](https://skillicons.dev/icons?i=fedora&theme=dark)](https://skillicons.dev)
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Fedora_icon_%282021%29.svg" width="48" height="48" alt="Fedora" />
 [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 [![Arch Linux](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
 
@@ -81,6 +81,7 @@ const Alejovar = {
 
 **DevOps & Tools**
 
+[![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 [![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=dark)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://skillicons.dev)
