@@ -58,7 +58,6 @@ const Alejovar = {
 [![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://skillicons.dev)
 
 **Databases**
-
 [![Oracle](https://skillicons.dev/icons?i=oracle&theme=dark)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
@@ -70,15 +69,13 @@ const Alejovar = {
 [![DigitalOcean](https://skillicons.dev/icons?i=digitalocean&theme=dark)](https://skillicons.dev)
 [![Docker](https://skillicons.dev/icons?i=docker&theme=dark)](https://skillicons.dev)
 [![Nginx](https://skillicons.dev/icons?i=nginx&theme=dark)](https://skillicons.dev)
-[![Jenkins](https://skillicons.dev/icons?i=jenkins&theme=dark)](https://skillicons.dev)
-[![GitLab](https://skillicons.dev/icons?i=gitlab&theme=dark)](https://skillicons.dev)
 
 **OS**
 
 [![Ubuntu](https://skillicons.dev/icons?i=ubuntu&theme=dark)](https://skillicons.dev)
 [![Fedora](https://skillicons.dev/icons?i=fedora&theme=dark)](https://skillicons.dev)
 [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
-
+[![Arch Linux](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
 
 
 
