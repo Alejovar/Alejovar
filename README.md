@@ -58,10 +58,6 @@ const Alejovar = {
 [![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://skillicons.dev)
 
 **Databases**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres&theme=dark" />
-</div>
-
 
 
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
