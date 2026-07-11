@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:0a0e1a&height=180&section=header&text=Alejovar&fontSize=65&fontColor=58a6ff&fontAlignY=50&desc=Software%20Engineering%20Student&descSize=18&descAlignY=72&descColor=8b949e)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d2137,100:0a0e1a&height=180&section=header&text=ImAlejovar&fontSize=65&fontColor=58a6ff&fontAlignY=50&desc=Software%20Engineering%20Student&descSize=18&descAlignY=72&descColor=8b949e)
 
 </div>
 
@@ -19,12 +19,14 @@
 ```typescript
 const Alejovar = {
   role    : "Software Engineering Student",
-  focus   : ["Fullstack", "DevOps", "Networking"],
+  focus   : ["Fullstack", "DevOps", "Cloud Architecture"],
   stack   : {
-    frontend : ["HTML5", "CSS3", "JavaScript"],
-    backend  : ["Java", "PHP", "Node.js"],
+    frontend : ["React", "Next.js", "TailwindCSS", "Vite", "Electron", "HTML5", "CSS3", "JavaScript"],
+    backend  : ["Java", "PHP", "Node.js", "NestJS", "Prisma"],
     data     : ["Oracle", "MySQL", "PostgreSQL"],
-    devops   : ["Docker", "Jenkins", "GitLab CI/CD"],
+    cloud    : ["AWS (EC2, Lambda)", "Oracle Cloud", "GCP", "DigitalOcean"],
+    devops   : ["Docker", "Nginx", "Jenkins", "GitLab CI/CD"],
+    os       : ["Ubuntu/Server", "Arch Linux", "Fedora"],
     network  : ["Packet Tracer", "TCP/IP", "VLANs"],
   },
   content : "Twitch & Instagram @ImAlejovar",
@@ -60,7 +62,6 @@ const Alejovar = {
 **Databases**
 
 <img src="https://basededatosparadummies.wordpress.com/wp-content/uploads/2019/02/forbidden.png" width="48" height="48" alt="Oracle" />
-
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
 
@@ -77,7 +78,6 @@ const Alejovar = {
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/3840px-Fedora_logo.svg.png" width="48" height="48" alt="Fedora" />
 [![Linux](https://skillicons.dev/icons?i=linux&theme=dark)](https://skillicons.dev)
 [![Arch Linux](https://skillicons.dev/icons?i=arch&theme=dark)](https://skillicons.dev)
-
 
 
 **DevOps & Tools**
