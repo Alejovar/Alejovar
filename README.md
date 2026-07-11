@@ -60,6 +60,7 @@ const Alejovar = {
 **Databases**
 
 <img src="https://basededatosparadummies.wordpress.com/wp-content/uploads/2019/02/forbidden.png" width="48" height="48" alt="Oracle" />
+
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
 
