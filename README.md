@@ -58,8 +58,12 @@ const Alejovar = {
 [![Prisma](https://skillicons.dev/icons?i=prisma&theme=dark)](https://skillicons.dev)
 
 **Databases**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres&theme=dark" />
+</div>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+
+
 [![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)](https://skillicons.dev)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
 
